@@ -1,6 +1,6 @@
 backend:
-  name: ctest2
-  repo: Tacoth/ctest2 # Path to your Github repository
+  name: github
+  repo: owner/repo # Path to your Github repository
   branch: master # Branch to update (master by default)
 
 publish_mode: editorial_workflow
